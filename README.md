@@ -60,7 +60,7 @@ Datasets for evaluate the accuracy of surrogate models & Self-Trained Classifica
 refer to ./train_classification_models/README.md
 
 
-## 🙏 Acknowledgement
+## 🔥 Acknowledgement
 
 The codebase is based on [MIRROR](https://github.com/njuaplusplus/mirror).
 
