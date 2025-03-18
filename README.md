@@ -16,7 +16,7 @@ conda env create -f environment.yml
 
 - **Pre-trained target models** : The GANs and classification model we use follows [MIRROR](https://github.com/njuaplusplus/mirror):
 
-## 🔥 SMILE
+## 😃 SMILE
 
 1.Initial sampling 2.5K synthetic images
 ```bash
