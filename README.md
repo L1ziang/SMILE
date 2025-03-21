@@ -1,5 +1,7 @@
 # _From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning_ - CVPR 2025
 
+## 📄 [Paper](https://arxiv.org/abs/2503.16266)
+
 ## 📝 Abstract
 _Model Inversion Attacks (MIAs) aim to reconstruct private training data from models, leading to privacy leakage, particularly in facial recognition systems. Although many studies have enhanced the effectiveness of white-box MIAs, less attention has been paid to improving efficiency and utility under limited attacker capabilities. Existing black-box MIAs necessitate an impractical number of queries, incurring significant overhead. Therefore, we analyze the limitations of existing MIAs and introduce **S**urrogate **M**odel-based **I**nversion with **L**ong-tailed **E**nhancement (**SMILE**), a high-resolution oriented and query-efficient MIA for the black-box setting. We begin by analyzing the initialization of MIAs from a data distribution perspective and propose a long-tailed surrogate training method to obtain high-quality initial points. We then enhance the attack's effectiveness by employing the gradient-free black-box optimization algorithm selected by NGOpt. Our experiments show that **SMILE** outperforms existing state-of-the-art black-box MIAs while requiring only about 5% of the query overhead._
 
