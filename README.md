@@ -78,3 +78,12 @@ Our baselines are implemented based on the following repositories. We extend our
  [MIRROR](https://github.com/njuaplusplus/mirror), [PPA](https://github.com/LukasStruppek/Plug-and-Play-Attacks), [RLBMI](https://github.com/HanGyojin/RLB-MI)
 
 ## 📜 Citation
+
+```
+@article{li2025head,
+  title={From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed Learning},
+  author={Li, Ziang and Zhang, Hongguang and Wang, Juan and Chen, Meihui and Hu, Hongxin and Yi, Wenzhe and Xu, Xiaoyang and Yang, Mengda and Ma, Chenjun},
+  journal={arXiv preprint arXiv:2503.16266},
+  year={2025}
+}
+```
